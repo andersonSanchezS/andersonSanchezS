@@ -3,9 +3,9 @@
 I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=fla&logoColor=white"> Vue js
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=fla&logoColor=white"> Vue.js
  
- :books: I want to learn <img src="https://img.shields.io/badge/-vuejs-3a495d?style=flat&logo=vuejs&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-docker-black?style=flat&logo=docker&logoColor=white"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/-vue-3a495d?style=flat&logo=vue&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-docker-black?style=flat&logo=docker&logoColor=white"/>
  
  
  
