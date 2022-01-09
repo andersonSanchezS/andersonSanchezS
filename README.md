@@ -1,6 +1,6 @@
 ### Hey Anderson Sanchez 👋
 
-I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a Full-stack Web Developer who is exploring React :atom: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about Web Development. :wink:
  
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-react-3a495d?style=flat&logo=react&logoColor=67b7f7"> 
