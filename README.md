@@ -3,7 +3,7 @@
 I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-react-3a495d?style=flat&logo=react&logoColor=67b7f7">  React
+ 🌱 I’m currently learning <img src="https://img.shields.io/badge/-react-3a495d?style=flat&logo=react&logoColor=67b7f7"> 
  
  :books: I want to learn <img src="https://img.shields.io/badge/-react-3a495d?style=flat&logo=react&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-docker-black?style=flat&logo=docker&logoColor=white"/>
  
