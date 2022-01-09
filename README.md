@@ -54,7 +54,7 @@ I am a Full-stack Web Developer who is exploring React :atom: while facilitating
 [<img align="left" alt="ander.er985 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
-
+<br>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
