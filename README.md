@@ -5,7 +5,7 @@ I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitatin
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=fla&logoColor=white"> Vue js
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/-vuejs-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-docker-black?style=flat&logo=deno&logoColor=white"/>
  
  
  
