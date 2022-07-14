@@ -34,7 +34,7 @@ I am a Full-stack Web Developer who is exploring React :atom: while facilitating
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 ### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 <a href="https://github.com/Daggy1234">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonSanchezS&layout=compact" />
